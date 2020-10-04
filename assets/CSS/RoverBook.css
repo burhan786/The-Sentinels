@@ -1,0 +1,83 @@
+body{
+    background-size: cover;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    
+
+
+}
+.rover-container{
+    width: 24.65%;
+    margin-left: 1.1%;
+    position: absolute;
+    font-size: 1.2vw;
+
+
+    
+}
+.rover-container:hover{
+    margin-left: -0.28em;
+    z-index: 1;
+} 
+.image-container0{
+    
+    width: 80%;
+    height: 100%;
+}
+.image-container1{
+    
+    width: 80%;
+    height: 120%;
+}
+.image-container2{
+    
+    width: 80%;
+    height: 100%;
+}
+.image-container3{
+    
+    width: 80%;
+    height: 100%;
+}
+.image-container4{
+    
+    width: 80%;
+    height: 100%;
+}
+.image-container5{
+    
+    width: 80%;
+    height: 100%;
+}
+
+@font-face { font-family: Space; src: url('SpaceMono-Bold.ttf.ttf'); }
+.info-container{
+    margin-top: 0;
+    color: antiquewhite;
+    background-image: linear-gradient(to top right,black 60%,white);
+    font-family:'Space';
+}
+
+
+.info{
+    background-image: linear-gradient(to bottom,black,white);
+}
+label{
+    margin-left: 5px;
+}
+p{
+    margin-left: 5px;
+}
+#add{
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    width: 100%;
+    font-size: 1.2vw;
+}
+#add:focus{
+    outline: 0px;
+}

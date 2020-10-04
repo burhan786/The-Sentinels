@@ -1,0 +1,111 @@
+@font-face { font-family: Space; src: url('SpaceMono-Bold.ttf'); } 
+@font-face { font-family: Space1; src: url('SpaceMono-Regular.ttf'); } 
+h2.head1{
+  color: white;
+  opacity: 0.85;
+  text-align: center;
+  font-family: 'Space';
+  font-size: 2vw;
+}
+div.aa3{
+  opacity: 0.85;
+  height: 15em;
+margin-top: 5%;
+}
+#ii1{
+  opacity: 0.85;
+  color: white;
+  font-size: 1.4vw;
+  margin-left: 5.6%;
+}
+#ii2{
+  opacity: 0.85;
+  /*margin-left: 50%;*/
+    color: white;
+    font-size: 1.4vw;
+      margin-left: 55.3%;
+
+
+}
+#ii3{
+  opacity: 0.85;
+   /*margin-left: 50%;*/
+     color: white;
+     font-size: 1.4vw;
+       margin-left: 55.3%;
+
+
+}
+#ii4{
+  opacity: 0.85;
+   
+     color: white;
+     font-size: 1.4vw;
+       margin-left: 5.6%;
+
+
+}
+#ii5{
+  opacity: 0.85;
+  color: white;
+  font-size: 1.4vw;
+  margin-left: 5.6%;
+}
+#ii6{
+  opacity: 0.85;
+  /*margin-left: 50%;*/
+    color: white;
+    font-size: 1.4vw;
+      margin-left: 55.3%;
+
+
+}
+#ii7{
+  opacity: 0.85;
+   /*margin-left: 50%;*/
+     color: white;
+     font-size: 1.4vw;
+       margin-left: 55.3%;
+
+
+}
+#ii8{
+  opacity: 0.85;
+   
+     color: white;
+     font-size: 1.4vw;
+       margin-left: 5.6%;
+
+
+}
+.is1{
+  float: left;
+  margin-left: 23em;
+
+}
+#data{
+  display: flex;
+  flex-direction: column;
+
+}
+#it1{
+  margin-top: 8%;
+}
+#inn1{
+  margin-left: 5.6%;
+  height: 2em;
+}
+#inn2{
+  margin-left: 5.6%;
+  height: 2em;
+}
+#q1{
+  margin-left: 51.8em;
+margin-top: 4em;
+width: 5em;
+height: 3em;
+}
+#cos{
+opacity: 0.85;
+color: white;
+}

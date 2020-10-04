@@ -1,0 +1,8 @@
+Restaurant-65
+Cinema Hall-80
+Rover Rental-55
+Hotel-48
+Sports Complex-40
+Spacecraft Services-70
+College-45
+Gaming zone-50
